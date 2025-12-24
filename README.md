@@ -194,8 +194,8 @@ MIT
 
 ## 🤝 Связанные репозитории
 
-- [work21-backend](https://github.com/ChargeOnTop/work21-backend) — Backend API
-- [work21-agent](https://github.com/ChargeOnTop/work21-agent) — AI Agent
-- [work21-fr](https://github.com/ChargeOnTop/work21-fr) — Frontend
-- [work21-deploy](https://github.com/ChargeOnTop/work21-deploy) — Deployment
+-  — Backend API
+-  — AI Agent
+-  — Frontend
+-  — Deployment
 
