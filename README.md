@@ -18,8 +18,8 @@
 
 ```bash
 # Клонирование
-git clone https://github.com/ChargeOnTop/work21-admin.git
-cd work21-admin
+git clone https://github.com/Daimnedope/work21-admins.git
+cd work21-admins
 
 # Установка зависимостей
 npm install
@@ -58,7 +58,7 @@ docker-compose up -d
 ## 📁 Структура проекта
 
 ```
-work21-admin/
+work21-admins/
 ├── src/
 │   ├── pages/              # Страницы
 │   │   ├── dashboard/      # Дашборд со статистикой
@@ -194,8 +194,8 @@ MIT
 
 ## 🤝 Связанные репозитории
 
--  — Backend API
--  — AI Agent
--  — Frontend
--  — Deployment
+- **Backend API:** https://github.com/oinuritto/work21-backend
+- **AI Agent:** https://github.com/Daimnedope/work21-agents
+- **Frontend:** https://github.com/ChargeOnTop/work21-fr
+- **Deploy:** https://github.com/ChargeOnTop/work21-deploy
 
